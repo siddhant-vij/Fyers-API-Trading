@@ -1,0 +1,15 @@
+- [API Docs](https://myapi.fyers.in/docsv3)
+  - User Info
+    - Funds
+    - Holdings
+  - Transaction Info
+    - Orders
+    - Positions
+    - Trades
+  - Order Placement
+  - Other Transactions
+    - Modify Orders
+    - Cancel Orders
+    - Exit Positions
+    - Convert Positions
+- [Course Link](https://www.udemy.com/course/complete-algorithmic-trading-on-fyers-platform/learn/lecture/42137856#overview)
